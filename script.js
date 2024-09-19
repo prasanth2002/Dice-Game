@@ -50,7 +50,7 @@ rolldice.addEventListener("click", function () {
     //display the rolled dice
     diceimg.classList.remove("hidden");
 
-    diceimg.src = `images/dice-${dice}.png`;
+    diceimg.src = `Images/dice-${dice}.png`;
 
     //add score
 
