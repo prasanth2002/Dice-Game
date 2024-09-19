@@ -49,9 +49,9 @@ rolldice.addEventListener("click", function () {
 
     //display the rolled dice
     diceimg.classList.remove("hidden");
-
+    
     diceimg.src = `Images/dice-${dice}.png`;
-
+  
     //add score
 
     //change player if it is 1
